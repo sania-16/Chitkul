@@ -9,9 +9,7 @@ We are developing a blockchain-based decentralized platform aimed at verifying t
 
 <img width="777" alt="Screenshot 2024-03-31 at 9 55 05 AM" src="https://github.com/sania-16/Chitkul/assets/85894828/0c1acf53-328a-460c-ab4d-2f72a8a2e75c">
 
-<img width="556" alt="Screenshot 2024-03-31 at 9 55 48 AM" src="https://github.com/sania-16/Chitkul/assets/85894828/0008724d-810c-4099-90aa-db542841c5a1">
-
-<img width="529" alt="Screenshot 2024-03-31 at 9 56 08 AM" src="https://github.com/sania-16/Chitkul/assets/85894828/2baed9f6-b401-4221-8413-1d5005df1d45">
+<img width="556" alt="Screenshot 2024-03-31 at 9 55 48 AM" src="https://github.com/sania-16/Chitkul/assets/85894828/0008724d-810c-4099-90aa-db542841c5a1"> <img width="529" alt="Screenshot 2024-03-31 at 9 56 08 AM" src="https://github.com/sania-16/Chitkul/assets/85894828/2baed9f6-b401-4221-8413-1d5005df1d45">
 
 Our goal is to enhance the integrity and efficiency of professional networking and hiring processes. We will be issuing Soul Bound Tokens(SBTs) to employees from the MultiSig Wallet of employers such that there is more than one person from their team verifying your credentials. This process ensures a completely verified profile of an employee making the hiring and recruiting process seamless and hassle-free. Our goal is to enhance the integrity and efficiency of professional networking and hiring processes.
 
