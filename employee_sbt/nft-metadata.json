@@ -1,0 +1,15 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Name",
+        "value": "IIT Delhi"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Delhi"
+      }
+    ],
+    "description": "SBT for education",
+    "image": "ipfs://Qmb78BRhhh8U1P1h3byHUbgWWobtBdFgSS1k7VLgu7Jdco",
+    "name": "College"
+  }
