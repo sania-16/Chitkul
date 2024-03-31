@@ -1,7 +1,7 @@
 # DEVY
 ![logo](https://github.com/sania-16/Chitkul/assets/85894828/3eeb8d85-fdb7-4d34-9574-8257018c65a9)
 
-EthMumbai Project
+# EthMumbai Project
 
 We are developing a blockchain-based decentralized platform aimed at verifying the profiles of employees via employers and organizations without any third-party involvement. This initiative seeks to counteract the rising number of scams occurring on platforms like LinkedIn and to streamline the often time-consuming process of background checks. 
 
@@ -15,8 +15,10 @@ We are developing a blockchain-based decentralized platform aimed at verifying t
 
 Our goal is to enhance the integrity and efficiency of professional networking and hiring processes. We will be issuing Soul Bound Tokens(SBTs) to employees from the MultiSig Wallet of employers such that there is more than one person from their team verifying your credentials. This process ensures a completely verified profile of an employee making the hiring and recruiting process seamless and hassle-free. Our goal is to enhance the integrity and efficiency of professional networking and hiring processes.
 
+<img width="700" alt="Screenshot 2024-03-31 at 10 00 38 AM" src="https://github.com/sania-16/Chitkul/assets/85894828/bd1c651e-8613-452c-9823-634df16e4496">
 
-Some Screenshots from our Demo/Product
+
+ # SOME SCREENSHOTS AND LINKS FROM OUR DEMO/PROJECT
 
 ![login](https://github.com/sania-16/Chitkul/assets/85894828/c8594d50-1e2c-4e84-adee-9a1dac75090f)
 
