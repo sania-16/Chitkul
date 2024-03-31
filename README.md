@@ -1,7 +1,6 @@
-# DEVY
+# DEVY - Our EthMumbai Project
 ![logo](https://github.com/sania-16/Chitkul/assets/85894828/3eeb8d85-fdb7-4d34-9574-8257018c65a9)
 
-# EthMumbai Project
 
 We are developing a blockchain-based decentralized platform aimed at verifying the profiles of employees via employers and organizations without any third-party involvement. This initiative seeks to counteract the rising number of scams occurring on platforms like LinkedIn and to streamline the often time-consuming process of background checks. 
 
